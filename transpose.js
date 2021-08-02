@@ -15,13 +15,6 @@
 */
 
 
-
-function main() {
-    var result = transposeWithSharps(["c", "e"], 6);
-    console.log(result);
-}
-
-
 // only works for naturals and sharps
 function isNote(str) {
     if (!str || str. length > 2 || typeof str !== "string") {
@@ -124,5 +117,3 @@ function transposeWithSharps(noteArray, amount) {
     return transposedString;
 
 }
-
-main();
