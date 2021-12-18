@@ -1,3 +1,3 @@
-# Music_functions
+# Music helpers
 
-Some small functions for note/interval manipulation, music theory, etc.
+Helper functions for note/interval manipulation, music theory, etc.
