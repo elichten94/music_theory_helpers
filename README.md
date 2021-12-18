@@ -1,3 +1,3 @@
 # Music helpers
 
-Helper functions for note/interval manipulation, music theory, etc.
+Helper functions for note/interval evaluation.
